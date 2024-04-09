@@ -1,3 +1,4 @@
+BRIEF SUMMARY ABOUT THE PROJECT
 
 This project focuses on speech recognition using Connectionist Temporal Classification (CTC) and decoding strategies like Beam Search. 
 The task involves transcribing speech recordings into sequences of phonemes. Unlike traditional frame-level labeling, where each frame is labeled independently, 
@@ -13,4 +14,8 @@ The goal is to achieve accurate phoneme transcriptions from speech recordings.
 
 After running the notebook the last optimal result that was obtained in 4.0095 on notebook but on making submission to kaggle the notebook scored 4.41
 
-BRIEF SUMMARY ABOUT THE PROJECT
+
+![image](https://github.com/Leonard250/Speech-detection/assets/141337656/d4657b56-6fd6-4657-992d-7f9080d31bf3)
+
+
+
